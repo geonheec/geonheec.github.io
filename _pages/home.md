@@ -16,12 +16,8 @@ toc_label: "Contents"
 
 
 **About Me**
-
-I am...
-- a graduate student in CSE at SNU.
-- a member of CARES Lab.
-- advised by Prof. Jihong Kim.
-
+- A graduate student in CSE at SNU.
+- A member of CARES Lab.
 
 ### Interest
     * Linux Kernel
