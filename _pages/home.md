@@ -6,5 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/grey.jpg
 excerpt: >
-  About Storage System<br />
+  \#Storage System<br />
+  \#NAND Flash Memory<br \>
+  \#Linux Kernel<br \>
 ---
