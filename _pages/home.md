@@ -15,10 +15,10 @@ toc_label: "Contents"
 ---
 **About Me**
 
-I am...<br />
-* a graduate student in CSE at SNU.<br />
-* a member of CARES Lab.<br />
-* advised by Prof. Jihong Kim.<br />
+I am...
+- a graduate student in CSE at SNU.
+- a member of CARES Lab.
+- advised by Prof. Jihong Kim.
 
 
 ### Interest
