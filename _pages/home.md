@@ -14,6 +14,7 @@ toc_sticky: true
 toc_label: "Contents"
 ---
 **About Me**
+======
 ### Interest
 * Linux Kernel
 * Storage System
@@ -22,7 +23,7 @@ toc_label: "Contents"
 ### Education
 * M.S., Computer Science and Engineering (2019.03 - )
     * Seoul National University
-    * A member of Computer ARchitecture and Embedded Systems Lab.
+    * CARES Lab.
 * B.S., Computer Science and Engineering (2013.03 - 2019.02)
     * Ajou University 
 
