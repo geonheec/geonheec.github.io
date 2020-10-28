@@ -93,18 +93,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Geonhee Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Member of CARES at SNU."
+  location         : "Nowhere..."
+  email            : "ghcho@davinci.snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:ghcho@davinci.snu.ac.kr"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/geonhee-cho-33b172196/"
+    - label: "LAB"
+      icon: "fas fa-fw fa-link"
+      url: "https://cares.snu.ac.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
