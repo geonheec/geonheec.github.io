@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Study about..."
 header:
@@ -11,6 +12,7 @@ excerpt: >
 toc: true
 toc_sticky: true
 toc_label: "Contents"
+
 ---
 
 
