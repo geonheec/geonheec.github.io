@@ -15,14 +15,16 @@ toc_label: "Contents"
 ---
 **About Me**
 ### Interest
-
-- Linux Kernel
-- Storage System
-- NAND Flash Memory
+* Linux Kernel
+* Storage System
+* NAND Flash Memory
 
 ### Education
-
-### Contact Me
+* M.S., Computer Science and Engineering (2019.03 - )
+    * Seoul National University
+    * A member of Computer ARchitecture and Embedded Systems Lab.
+* B.S., Computer Science and Engineering (2013.03 - 2019.02)
+    * Ajou University 
 
 ---
 
