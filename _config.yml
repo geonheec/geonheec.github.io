@@ -95,12 +95,12 @@ analytics:
 author:
   name             : "Geonhee Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Member of CARES at SNU."
-  location         : "Nowhere..."
+  bio              : "Graduate Student"
+  #location         : "Nowhere..."
   email            : "ghcho@davinci.snu.ac.kr"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-linkedin-in"
+      icon: "fas fa-linkedin-square"
       url: "https://www.linkedin.com/in/geonhee-cho-33b172196/"
     - label: "Lab"
       icon: "fas fa-fw fa-link"
