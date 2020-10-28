@@ -100,7 +100,7 @@ author:
   email            : "ghcho@davinci.snu.ac.kr"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-linkedin-square"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/geonhee-cho-33b172196/"
     - label: "Lab"
       icon: "fas fa-fw fa-link"
