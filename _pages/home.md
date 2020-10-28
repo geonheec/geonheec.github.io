@@ -11,8 +11,9 @@ excerpt: >
   \#NAND Flash Memory<br />
 ---
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
-
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 ## A
 
 - Test

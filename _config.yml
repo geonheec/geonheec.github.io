@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Geonhee Cho"
   avatar           : "/assets/images/bg.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Graduate Student"
+  bio              : "Graduate Student"
   location         : "Seoul, Republic of Korea"
   email            : "ghcho@davinci.snu.ac.kr"
   links:
