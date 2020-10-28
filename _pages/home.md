@@ -11,8 +11,7 @@ excerpt: >
   \#NAND Flash Memory<br />
 ---
 
-Install the Theme{: .btn .btn--success .btn
---large}
+[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
 ## A
 
