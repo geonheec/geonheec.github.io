@@ -11,10 +11,16 @@ excerpt: >
   \#NAND Flash Memory<br />
 ---
 
-Test
+Install the Theme{: .btn .btn--success .btn
+--large}
 
-## Notable Features
+## A
 
 - Test
 - Test2
+
+## B
+
 ---
+
+Test Done
