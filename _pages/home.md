@@ -1,8 +1,6 @@
 ---
-layout: splash
 permalink: /
 title: "Study about..."
-hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mainimage.jpg
