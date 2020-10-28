@@ -3,7 +3,7 @@ main:
   - title: "Personal"
     url: /personal/
   - title: "Study"
-    url: /about/
+    url: /study/
   - title: "Reading"
     url: /reading/
   - title: "Publication"
