@@ -15,17 +15,21 @@ toc_label: "Contents"
 ---
 **About Me**
 ======
+I am...
+    * a graduate student in CSE at SNU.
+    * a member of CARES Lab.
+    * advised by Prof. Jihong Kim.
+
 ### Interest
-* Linux Kernel
-* Storage System
-* NAND Flash Memory
+    * Linux Kernel
+    * Storage System
+    * NAND Flash Memory
 
 ### Education
-* M.S., Computer Science and Engineering (2019.03 - )
-    * Seoul National University
-    * CARES Lab.
-* B.S., Computer Science and Engineering (2013.03 - 2019.02)
-    * Ajou University 
+    * M.S., Computer Science and Engineering (2019.03 - )
+        * Seoul National University
+    * B.S., Computer Science and Engineering (2013.03 - 2019.02)
+        * Ajou University 
 
 ---
 
