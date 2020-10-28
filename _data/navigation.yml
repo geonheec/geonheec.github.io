@@ -1,8 +1,12 @@
 # main links
 main:
-  - title: "About"
+  - title: "Personal"
+    url: /personal/
+  - title: "Study"
     url: /about/
-  - title: "Publications"
+  - title: "Reading"
+    url: /reading/
+  - title: "Publication"
     url: /publications/
      # - title: "Sample Posts"
   #   url: /year-archive/
