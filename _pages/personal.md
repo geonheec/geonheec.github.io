@@ -1,5 +1,6 @@
 ---
-permalink: /personal/
 title: "Personal"
-layout: splash
+permalink: /personal/
+layout: posts
+author_profile: true
 ---

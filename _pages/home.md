@@ -22,8 +22,8 @@ share: false
 - A member of CARES Lab.
 
 ### Interest
-    * Linux Kernel
-    * Storage System
+    * Linux System Performance Analysis
+    * Linux Storage I/O Stack
     * NAND Flash Memory
 
 ### Education
