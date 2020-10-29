@@ -1,5 +1,6 @@
 ---
 title: "Study"
-layout: splash
 permalink: /study/
+layout: posts
+author_profile: true
 ---

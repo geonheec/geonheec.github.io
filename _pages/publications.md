@@ -1,5 +1,6 @@
 ---
 title: "Publication"
-layout: splash
 permalink: /publications/
+layout: posts
+author_profile: true
 ---
