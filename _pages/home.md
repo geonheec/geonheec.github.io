@@ -22,7 +22,7 @@ share: false
 - A member of CARES Lab.
 
 ### Interest
-    * Linux System Performance Analysis
+    * Linux System Monitoring with eBPF
     * Linux Storage I/O Stack
     * NAND Flash Memory
 
